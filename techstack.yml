@@ -1,7 +1,8 @@
 repo_name: engmajdaldeen7/documentation
 report_id: 1a9e8837bb8c1e0b3d623e8ababb9010
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-28T17:52:00+00:00'
+timestamp: '2024-01-05T08:31:55+00:00'
 requested_by: hojo-odoo
 provider: github
 branch: '17.0'
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/engmajdaldeen7/documentation
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/engmajdaldeen7/documentation
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/engmajdaldeen7/documentation
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/engmajdaldeen7/documentation/blob/17.0/content/applications/general/export_import_data/database_import_test.sql
   detection_source: content/applications/general/export_import_data/database_import_test.sql
   last_updated_by: Cedric Snauwaert
   last_updated_on: 2016-04-04 15:21:48.000000000 Z
@@ -55,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/engmajdaldeen7/documentation
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -64,6 +70,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/engmajdaldeen7/documentation/blob/17.0/tests/requirements.txt
   detection_source: tests/requirements.txt
   last_updated_by: Victor Feyens
   last_updated_on: 2022-11-22 17:17:30.000000000 Z
@@ -75,6 +82,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/engmajdaldeen7/documentation/blob/17.0/tests/requirements.txt
   detection_source: tests/requirements.txt
   last_updated_by: Victor Feyens
   last_updated_on: 2023-04-17 13:46:16.000000000 Z
@@ -84,12 +92,13 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/engmajdaldeen7/documentation/blob/17.0/extensions/odoo_theme/layout.html
   detection_source: extensions/odoo_theme/layout.html
   last_updated_by: Antoine Vandevenne (anv)
   last_updated_on: 2021-04-30 10:40:29.000000000 Z
 - name: docutils
   description: Docutils -- Python Documentation Utilities
-  package_url: https://pypi.org/docutils
+  package_url: https://pypi.org/project/docutils
   version: 0.16.0
   license: Unlicense,Python-2.0,BSD-2-Clause,CNRI-Python-GPL-Compatible
   open_source: true
@@ -97,13 +106,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19874/default_7ed3c4ccf2a3218ae3655165b980bd4a90a445dc.png
-  detection_source_url: github.com/engmajdaldeen7/documentation/blob/17.0/requirements.txt
+  detection_source_url: https://github.com/engmajdaldeen7/documentation/blob/17.0/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Antoine Vandevenne (anv)
   last_updated_on: 2022-06-09 08:56:01.000000000 Z
 - name: libsass
   description: 'Sass for Python: A straightforward binding of libsass for Python'
-  package_url: https://pypi.org/libsass
+  package_url: https://pypi.org/project/libsass
   version: 0.20.1
   license: MIT
   open_source: true
@@ -111,13 +120,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20335/default_1a060bd30ca72545354e1c3d92e9b224f6c0e5e2.png
-  detection_source_url: github.com/engmajdaldeen7/documentation/blob/17.0/requirements.txt
+  detection_source_url: https://github.com/engmajdaldeen7/documentation/blob/17.0/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Christophe Monniez
   last_updated_on: 2023-05-10 11:18:12.000000000 Z
 - name: mock
   description: Rolling backport of unittest.mock for all Pythons
-  package_url: https://pypi.org/mock
+  package_url: https://pypi.org/project/mock
   version: 5.0.1
   license: BSD-2-Clause
   open_source: true
@@ -125,7 +134,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19876/default_8902c10687fbcd6273bdbe119fff40fa1180763f.png
-  detection_source_url: github.com/engmajdaldeen7/documentation/blob/17.0/tests/requirements.txt
+  detection_source_url: https://github.com/engmajdaldeen7/documentation/blob/17.0/tests/requirements.txt
   detection_source: tests/requirements.txt
   last_updated_by: Victor Feyens
   last_updated_on: 2022-11-22 17:17:30.000000000 Z
