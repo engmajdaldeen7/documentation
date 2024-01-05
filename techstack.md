@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [engmajdaldeen7/documentation](https://github.com/engmajdaldeen7/documentation)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|11<br/>Tools used|11/28/23 <br/>Report generated|
+|11<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -125,9 +125,9 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[docutils](https://pypi.org/docutils)|v0.16.0|06/09/22|Antoine Vandevenne (anv) |Unlicense,Python-2.0,BSD-2-Clause,CNRI-Python-GPL-Compatible|N/A|
-|[libsass](https://pypi.org/libsass)|v0.20.1|05/10/23|Christophe Monniez |MIT|N/A|
-|[mock](https://pypi.org/mock)|v5.0.1|11/22/22|Victor Feyens |BSD-2-Clause|N/A|
+|[docutils](https://pypi.org/project/docutils)|v0.16.0|06/09/22|Antoine Vandevenne (anv) |Unlicense,Python-2.0,BSD-2-Clause,CNRI-Python-GPL-Compatible|N/A|
+|[libsass](https://pypi.org/project/libsass)|v0.20.1|05/10/23|Christophe Monniez |MIT|N/A|
+|[mock](https://pypi.org/project/mock)|v5.0.1|11/22/22|Victor Feyens |BSD-2-Clause|N/A|
 
 <br/>
 <div align='center'>
